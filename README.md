@@ -8,6 +8,14 @@ YouTube Channel > Get __it Done! > https://www.youtube.com/channel/UCJebzvfCuA5y
 
 -----------------------------------------------
 
+#Support the Developer
+
+Patreon https://www.patreon.com/chicagocomputerclasses
+
+One time donations https://www.chicagocomputerclasses.com/youtube-learn-google-spreadsheets/
+
+-----------------------------------------------
+
 Learn how to use on YouTube https://youtu.be/Ft5lxsXIGfE
 
 V1.0
