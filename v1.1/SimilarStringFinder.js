@@ -1,3 +1,8 @@
+/*
+Author https://www.chicagocomputerclasses.com/
+YouTube Channel https://www.youtube.com/channel/UC8p19gUXJYTsUPEpusHgteQ
+Video https://youtu.be/Ft5lxsXIGfE
+*/
 class SimilarStringFinder {
   constructor(targetPhrase,phraseList, minScore = 0){
     this.targetPhrase = targetPhrase
