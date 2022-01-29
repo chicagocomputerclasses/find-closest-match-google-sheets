@@ -2,7 +2,9 @@
 
 Author https://www.chicagocomputerclasses.com/
 
-YouTube Channel https://www.youtube.com/channel/UC8p19gUXJYTsUPEpusHgteQ
+YouTube Channel > LGS > https://www.youtube.com/channel/UC8p19gUXJYTsUPEpusHgteQ
+
+YouTube Channel > Get __it Done! > https://www.youtube.com/channel/UCJebzvfCuA5ymtb79DQm36A
 
 -----------------------------------------------
 
