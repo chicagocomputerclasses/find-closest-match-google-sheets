@@ -8,7 +8,7 @@ YouTube Channel > Get __it Done! > https://www.youtube.com/channel/UCJebzvfCuA5y
 
 -----------------------------------------------
 
-#Support the Developer
+# Support the Developer
 
 Patreon https://www.patreon.com/chicagocomputerclasses
 
