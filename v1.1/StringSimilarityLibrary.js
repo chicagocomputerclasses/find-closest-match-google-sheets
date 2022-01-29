@@ -16,6 +16,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  * @param {boolean} [caseSensitive=false] Optional. Whether you want to consider case in string matching. Default false;
  * @returns Number between 0 and 1, with 0 being a low match score.
  */
+
+
+/*
+Changes made by
+Author https://www.chicagocomputerclasses.com/
+YouTube Channel https://www.youtube.com/channel/UC8p19gUXJYTsUPEpusHgteQ
+Video https://youtu.be/Ft5lxsXIGfE
+*/
+
 const stringSimilarity = function (str1, str2, substringLength, caseSensitive) {
     if (substringLength === void 0) { substringLength = 2; }
     if (caseSensitive === void 0) { caseSensitive = false; }
