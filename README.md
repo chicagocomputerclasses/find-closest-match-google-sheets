@@ -4,6 +4,8 @@ Author https://www.chicagocomputerclasses.com/
 
 YouTube Channel https://www.youtube.com/channel/UC8p19gUXJYTsUPEpusHgteQ
 
+-----------------------------------------------
+
 Learn how to use on YouTube https://youtu.be/Ft5lxsXIGfE
 
 V1.0
