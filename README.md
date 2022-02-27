@@ -24,7 +24,7 @@ Learn how to use on YouTube https://youtu.be/Ft5lxsXIGfE
 #### V1.1
 <code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code>
 
-V1.2</br>
+#### V1.2
 <code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code></br>
 <code>=FINDSIMILARTEXT(A1:A6,G:G,0.7,"text")</code></br>
 <code>=FINDSIMILARTEXT(A1,G:G,0.7,"position")</code></br>
