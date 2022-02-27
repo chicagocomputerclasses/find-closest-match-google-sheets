@@ -22,7 +22,8 @@ Learn how to use on YouTube https://youtu.be/Ft5lxsXIGfE
 <code>=GETBESTMATCH(A1,G:G,0.7)</code>
 
 #### V1.1
-<code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code>
+<code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code></br>
+<code>=FINDSIMILARTEXT(A1,G:G,0.7,"position")</code>
 
 #### V1.2
 <code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code></br>
