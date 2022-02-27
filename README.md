@@ -19,10 +19,10 @@ One time donations https://www.chicagocomputerclasses.com/youtube-learn-google-s
 Learn how to use on YouTube https://youtu.be/Ft5lxsXIGfE
 
 V1.0
-=GETBESTMATCH(A1,G:G,0.7)
+<code>=GETBESTMATCH(A1,G:G,0.7)</code>
 
-V1.1
-=FINDSIMILARTEXT(A1,G:G,0.7,"text")
+###V1.1
+<code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code>
 
 V1.2</br>
 <code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code></br>
