@@ -24,8 +24,8 @@ V1.0
 V1.1
 =FINDSIMILARTEXT(A1,G:G,0.7,"text")
 
-V1.2
-<code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code>
-<code>=FINDSIMILARTEXT(A1:A6,G:G,0.7,"text")</code>
-<code>=FINDSIMILARTEXT(A1,G:G,0.7,"position")</code>
+V1.2</br>
+<code>=FINDSIMILARTEXT(A1,G:G,0.7,"text")</code></br>
+<code>=FINDSIMILARTEXT(A1:A6,G:G,0.7,"text")</code></br>
+<code>=FINDSIMILARTEXT(A1,G:G,0.7,"position")</code></br>
 <code>=FINDSIMILARTEXT(A1:A6,G:G,0.7,"position")</code>
