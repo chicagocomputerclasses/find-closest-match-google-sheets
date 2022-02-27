@@ -4,7 +4,6 @@ YouTube Channel https://www.youtube.com/channel/UC8p19gUXJYTsUPEpusHgteQ
 Video https://youtu.be/Ft5lxsXIGfE
 */
 
-
 /**
  * Get closest match from a list. Ex.  =FINDSIMILARTEXT(I1,G:G,0.7,"text")
  * @param {string} targetPhrase Target string to compare
